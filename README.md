@@ -4,3 +4,4 @@ Projects where I applied Natural Language Processing to classify articles into c
 * Text classification
 * Analogy reasoning
 * Machine Translation
+* Document Search
