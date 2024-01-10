@@ -9,4 +9,5 @@ Projects where I applied Natural Language Processing to classify articles into c
 * Document Search
 * Part of Speech tagging
   * Simple model   
-  * With a hidden Markov Model   
+  * With a hidden Markov Model 
+* Autocomplete
