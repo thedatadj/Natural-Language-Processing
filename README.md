@@ -1,5 +1,5 @@
 # Natural Language Processing
-Projects where I applied Natural Language Processing to classify articles into categories, movies reviews as positive or negative, etc.
+Projects where I use Natural Language Processing to perform the following taks:
 * Sentiment analysis
   * Logistic Regression
   * Naive Bayes   
