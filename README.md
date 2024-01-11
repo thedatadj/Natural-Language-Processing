@@ -11,3 +11,5 @@ Projects where I applied Natural Language Processing to classify articles into c
   * Simple model   
   * With a hidden Markov Model 
 * Autocomplete
+* Word Embeddings
+  * Continuous Bag of Words Model
