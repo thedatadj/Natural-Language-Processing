@@ -2,7 +2,8 @@
 Projects where I use Natural Language Processing to perform the following taks:
 * Sentiment analysis
   * Logistic Regression
-  * Naive Bayes   
+  * Naive Bayes
+  * Deep Learning   
 * Text classification
 * Analogy reasoning
 * Machine Translation
