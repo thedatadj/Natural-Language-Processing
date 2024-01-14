@@ -14,3 +14,4 @@ Projects where I use Natural Language Processing to perform the following taks:
 * Autocomplete
 * Word Embeddings
   * Continuous Bag of Words Model
+* Text generation
