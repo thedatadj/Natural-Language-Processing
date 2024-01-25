@@ -7,6 +7,7 @@ Projects where I use Natural Language Processing to perform the following taks:
 * Text classification
 * Analogy reasoning
 * Machine Translation
+  * Neural Machine Translation with Attention 
 * Document Search
 * Part of Speech tagging
   * Simple model   
